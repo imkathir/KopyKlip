@@ -1,0 +1,6 @@
+{
+  "name": "KopyKlip",
+  "description": "A sleek macOS clipboard manager inspired by CopyClip with pinned clips, quick-access shortcuts, search, and macOS DMG package export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
